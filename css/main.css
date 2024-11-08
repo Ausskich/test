@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+header, footer{
+    height: 55px;
+    background-color: greenyellow;
+}
+
+.kon{
+    margin: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
